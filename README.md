@@ -12,6 +12,6 @@ Práctica de JavaScript para generar un color aleatorio en Hexadecimal.
 - HTML
 - CSS
 
-## 🪮 Capturas
+## 🖼️ Capturas
 
 <img src="https://github.com/user-attachments/assets/f080a5c2-ed17-47a2-bde0-354bc23afb94" width="600px" alt="Desktop view"/>
